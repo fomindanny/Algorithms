@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms implemented in educational purposes
+Algorithms implemented for educational purposes
