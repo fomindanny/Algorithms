@@ -1,4 +1,4 @@
-def karatsuba_multiplication(x, y):
+def karatsuba_multiplication(x: int, y: int) -> int:
     """Implementation of Karatsuba Multiplication.
     Returns the product of two numbers.
     """
