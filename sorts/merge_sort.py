@@ -3,7 +3,7 @@ def merge(first_collection: list, second_collection: list) -> list:
     Returns one merged sorted collection.
     """
     merged_collection = []
-    
+
     i, j = 0, 0
     while (i < len(first_collection)) and (j < len(second_collection)):
         if first_collection[i] <= second_collection[j]:
